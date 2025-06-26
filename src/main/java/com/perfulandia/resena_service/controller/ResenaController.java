@@ -24,3 +24,5 @@ public class ResenaController {
         return service.listarTodas();
     }
 }
+
+
